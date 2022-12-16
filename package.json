@@ -1,0 +1,29 @@
+{
+  "name": "simple-npm-package",
+  "version": "1.0.0",
+  "description": "A simple npm package for demostration purposes and use in Nodejs applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiusKevin3/simple-npm-package.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "example",
+    "demo",
+    "hello World"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiusKevin3/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/PiusKevin3/simple-npm-package#readme"
+}
