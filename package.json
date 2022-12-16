@@ -1,5 +1,5 @@
 {
-  "name": "simple-npm-package",
+  "name": "@PiusKevin3/simple-npm-package",
   "version": "1.0.0",
   "description": "A simple npm package for demostration purposes and use in Nodejs applications.",
   "main": "index.js",
